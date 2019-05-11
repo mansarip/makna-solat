@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Exo+2:400,700");
+
+body {
+  margin: 0;
+  font-family: "Exo 2", sans-serif;
+  color: #4a4a4a;
+  font-size: 14px;
+}
+.header {
+  color: #fff;
+
+  .mobile {
+    height: 200px;
+    background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+  }
+}
+.panel {
+  padding: 20px;
+  border-bottom: 1px solid rgb(228, 228, 228);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  .title {
+    color: #333;
+    margin: 0;
+  }
+  span.subtitle {
+    font-size: 0.9em;
+  }
+  p {
+    line-height: 1.4em;
+  }
+}
