@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/makna-solat/static/css/main.ccb56227.chunk.css",
+    "main.js": "/makna-solat/static/js/main.152e973f.chunk.js",
+    "main.js.map": "/makna-solat/static/js/main.152e973f.chunk.js.map",
+    "runtime~main.js": "/makna-solat/static/js/runtime~main.ef464305.js",
+    "runtime~main.js.map": "/makna-solat/static/js/runtime~main.ef464305.js.map",
+    "static/js/2.d49047e8.chunk.js": "/makna-solat/static/js/2.d49047e8.chunk.js",
+    "static/js/2.d49047e8.chunk.js.map": "/makna-solat/static/js/2.d49047e8.chunk.js.map",
+    "index.html": "/makna-solat/index.html",
+    "precache-manifest.9aafb1f2ec0dc9a0b18cf5a7e7d89bba.js": "/makna-solat/precache-manifest.9aafb1f2ec0dc9a0b18cf5a7e7d89bba.js",
+    "service-worker.js": "/makna-solat/service-worker.js",
+    "static/css/main.ccb56227.chunk.css.map": "/makna-solat/static/css/main.ccb56227.chunk.css.map"
+  }
+}
