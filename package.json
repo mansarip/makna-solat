@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://mansarip.github.io/makna-solat/",
   "dependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-responsive": "^6.1.2",
